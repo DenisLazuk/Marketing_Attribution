@@ -1,4 +1,4 @@
-# **Project: Marketing Attributions**
+# **Project: Marketing Attribution**
 ## Project on practicing SQL skills
 
 ### Project Objectives:
